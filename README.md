@@ -4,4 +4,4 @@ This repository contains the code for my portfolio website. It is built using HT
 
 **Deployment**
 
-The website has been deployed on Github pages at https://m.numan.github.io/Portfolio/.
+The website has been deployed on Github pages at https://numan541.github.io/Portfolio/.
